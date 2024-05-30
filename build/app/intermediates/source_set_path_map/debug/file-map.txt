@@ -1,0 +1,16 @@
+com.example.flutter_quiz_app-jetified-play-services-basement-18.3.0-0 /Users/ryan/.gradle/caches/transforms-3/2139268406fd79edc722cb763f7f5a41/transformed/jetified-play-services-basement-18.3.0/res
+com.example.flutter_quiz_app-jetified-window-1.0.0-beta04-1 /Users/ryan/.gradle/caches/transforms-3/34c3431540ca93f042e83a88c6639683/transformed/jetified-window-1.0.0-beta04/res
+com.example.flutter_quiz_app-jetified-window-java-1.0.0-beta04-2 /Users/ryan/.gradle/caches/transforms-3/3f4e8126de321fcaf823744adbee4719/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.flutter_quiz_app-jetified-annotation-experimental-1.1.0-3 /Users/ryan/.gradle/caches/transforms-3/4a31c25a1a8038675ff63584726d2ddb/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.flutter_quiz_app-core-1.6.0-4 /Users/ryan/.gradle/caches/transforms-3/9a50f6456c55dbd59fdac26083840549/transformed/core-1.6.0/res
+com.example.flutter_quiz_app-jetified-firebase-common-20.4.3-5 /Users/ryan/.gradle/caches/transforms-3/f698ae7515247562231836e34d7bbc03/transformed/jetified-firebase-common-20.4.3/res
+com.example.flutter_quiz_app-debug-6 /Users/ryan/flutter development/flutter_dev/flutter_quiz_app/android/app/src/debug/res
+com.example.flutter_quiz_app-main-7 /Users/ryan/flutter development/flutter_dev/flutter_quiz_app/android/app/src/main/res
+com.example.flutter_quiz_app-google-services-8 /Users/ryan/flutter development/flutter_dev/flutter_quiz_app/build/app/generated/res/google-services/debug
+com.example.flutter_quiz_app-pngs-9 /Users/ryan/flutter development/flutter_dev/flutter_quiz_app/build/app/generated/res/pngs/debug
+com.example.flutter_quiz_app-resValues-10 /Users/ryan/flutter development/flutter_dev/flutter_quiz_app/build/app/generated/res/resValues/debug
+com.example.flutter_quiz_app-rs-11 /Users/ryan/flutter development/flutter_dev/flutter_quiz_app/build/app/generated/res/rs/debug
+com.example.flutter_quiz_app-mergeDebugResources-12 /Users/ryan/flutter development/flutter_dev/flutter_quiz_app/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.flutter_quiz_app-mergeDebugResources-13 /Users/ryan/flutter development/flutter_dev/flutter_quiz_app/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.flutter_quiz_app-merged_res-14 /Users/ryan/flutter development/flutter_dev/flutter_quiz_app/build/app/intermediates/merged_res/debug
+com.example.flutter_quiz_app-packaged_res-15 /Users/ryan/flutter development/flutter_dev/flutter_quiz_app/build/firebase_core/intermediates/packaged_res/debug

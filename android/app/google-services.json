@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738141095855",
+    "project_id": "skripsi-it",
+    "storage_bucket": "skripsi-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738141095855:android:690dc85c20b3414f03115a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjqrW_6khnk_sZsMPHqjJfou8vE-9TiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738141095855:android:cfccafe8994430c203115a",
+        "android_client_info": {
+          "package_name": "flutter.quiz.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjqrW_6khnk_sZsMPHqjJfou8vE-9TiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

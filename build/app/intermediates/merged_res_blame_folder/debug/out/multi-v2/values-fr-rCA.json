@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.flutter_quiz_app-mergeDebugResources-12:/values-fr-rCA/values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "/Users/ryan/.gradle/caches/transforms-3/9a50f6456c55dbd59fdac26083840549/transformed/core-1.6.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "216",
+                        "endColumns": "100",
+                        "endOffsets": "312"
+                    }
+                },
+                {
+                    "source": "/Users/ryan/.gradle/caches/transforms-3/2139268406fd79edc722cb763f7f5a41/transformed/jetified-play-services-basement-18.3.0/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "156",
+                        "endOffsets": "355"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "160",
+                        "endOffsets": "211"
+                    }
+                }
+            ]
+        }
+    ]
+}
