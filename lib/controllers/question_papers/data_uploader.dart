@@ -4,6 +4,7 @@ import 'package:flutter_quiz_app/models/question_paper_model.dart';
 import 'package:get/get.dart';
 import 'dart:convert';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import '../../models/question_paper_model.dart';
 
 class DataUploader extends GetxController {
   @override 
