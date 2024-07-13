@@ -1,0 +1,125 @@
+{
+    "id": "ppr001",
+    "title": "Biologi",
+    "image_url": "",
+    "Description": "Pelajaran tentang biologi untuk mengasah pengetahuan siswa/i",
+    "time_seconds": 900,
+    
+    "questions": [
+        {
+            "id": "ppr001q001",
+            "question": "Apa nama proses di mana tanaman mengubah cahaya matahari menjadi energi kimia?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Autotomi"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Fotosintesis"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Ovulasi"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Membelah diri"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q002",
+            "question": "Apa nama jaringan yang menghubungkan otot dengan tulang?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Lemak"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Paru - Paru"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Tendon"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Tulang"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q003",
+            "question": "Which law is involved in the act of cleaning a carpet by beating it with a stick?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "First law of motion"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Second law of motion"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Law of conservation of mass"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Law of conservation of energy"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q004",
+            "question": "which of the following is a unit of eletric current:",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "ohm"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "volt"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "watt"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "amp"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "When an object is in motion, it's ................... must change.?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Shapen"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Size"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Acceleration"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Position"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

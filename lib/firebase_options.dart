@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDtjqrW_6khnk_sZsMPHqjJfou8vE-9TiQ',
-    appId: '1:738141095855:android:690dc85c20b3414f03115a',
+    appId: '1:738141095855:android:8716ea9b9db3895603115a',
     messagingSenderId: '738141095855',
     projectId: 'skripsi-it',
     storageBucket: 'skripsi-it.appspot.com',

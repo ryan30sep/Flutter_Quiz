@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/ryan/.pub-cache/hosted/pub.dev/rive_common-0.4.9/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ryan/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/ryan/.pub-cache/hosted/pub.dev/rive_common-0.4.9/android/.cxx/Debug/1a4y2g2j/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ryan/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/ryan/.pub-cache/hosted/pub.dev/rive_common-0.4.9/android/.cxx/Debug/1a4y2g2j/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "rive_text::@6890427a1f51a3e7e1df": {
+      "artifactName": "rive_text",
+      "abi": "arm64-v8a",
+      "output": "/Users/ryan/flutter development/flutter_dev/flutter_quiz_app/Flutter_Quiz/build/rive_common/intermediates/cxx/Debug/1a4y2g2j/obj/arm64-v8a/librive_text.so",
+      "runtimeFiles": []
+    }
+  }
+}

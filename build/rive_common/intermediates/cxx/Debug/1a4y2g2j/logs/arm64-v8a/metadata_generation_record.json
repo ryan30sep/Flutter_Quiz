@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: arm64-v8a",
+    "file_": "/Users/ryan/.pub-cache/hosted/pub.dev/rive_common-0.4.9/android/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 460033473
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027/Users/ryan/.pub-cache/hosted/pub.dev/rive_common-0.4.9/android/.cxx/Debug/1a4y2g2j/arm64-v8a/android_gradle_build.json\u0027 was up-to-date",
+    "file_": "/Users/ryan/.pub-cache/hosted/pub.dev/rive_common-0.4.9/android/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1341397139
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/ryan/.pub-cache/hosted/pub.dev/rive_common-0.4.9/android/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 652521085
+  }
+]

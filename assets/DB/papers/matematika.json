@@ -1,0 +1,239 @@
+{
+    "id": "ppr003",
+    "title": "Matematika",
+    "image_url": "",
+    "Description": "Pelajaran matematika untuk melatih siswa/i belajar berhitung",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr003q001",
+            "question": "Jenna has 82 apples. She gives Sam 28 apples. How many apples does Jenna have now?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "45"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "108"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "54"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "37"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q002",
+            "question": "Max and Billy went to a farm! Max collected 18 eggs and Billy collected 29 eggs. How many eggs did they collect in total.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "74"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "22"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "80"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "47"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr003q003",
+            "question": "what is 2/10 +15/100 equal?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "17"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "35/100"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "30/100"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "17/100"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q004",
+            "question": "How many times greater is 2,340 than 234?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "20 times"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "100 times"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "10 times"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1 time"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q005",
+            "question": "How many sides does a quadrilateral have?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "5"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "2"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q001",
+            "question": "Berapa lama waktu yang dibutuhkan Bumi untuk mengelilingi Matahari sekali?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "365,25 Hari"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "360 Hari"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "365 Hari"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "250 Hari"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q002",
+            "question": "Apa nama planet yang memiliki cincin paling terkenal dan paling besar?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Jupiter"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Bumi"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Merkurius"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Saturnus"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q003",
+            "question": "Apa nama planet terkecil di tata surya kita?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Bima Sakti"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Merkurius"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Jupiter"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Bumi"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q004",
+            "question": "Objek luar angkasa apa yang sering disebut sebagai Kota Bintang karena terdiri dari jutaan bintang?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Galaksi"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Planet"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Meteor"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Asteroid"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "Planet mana yang memiliki atmosfer yang sebagian besar terdiri dari karbon dioksida?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Asteroid"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Merkurius"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Bumi"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Venus"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}
